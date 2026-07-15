@@ -1,4 +1,4 @@
-# 🏥 SQL Intermediate – Experiment 1: Hospital Management System (Populate Data)
+# 🏥 Experiment 1: Hospital Management System
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Database](https://img.shields.io/badge/Database-RDBMS-green)
