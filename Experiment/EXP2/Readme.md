@@ -134,8 +134,6 @@ After completing these experiments, you will be able to:
 
 **Ayush Bansal**
 
-GitHub: https://github.com/Sahilpreet13
-
 ---
 
 ⭐ If you found this repository helpful, consider giving it a star!
