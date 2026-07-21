@@ -117,11 +117,6 @@ SQL-Set-Operators/
 
 ---
 
-## 📸 Output
-
-Screenshots of each experiment's output are included in the repository.
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -137,7 +132,7 @@ After completing these experiments, you will be able to:
 
 ## 👨‍💻 Author
 
-**Sahilpreet Singh**
+**Ayush Bansal**
 
 GitHub: https://github.com/Sahilpreet13
 
