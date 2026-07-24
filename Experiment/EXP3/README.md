@@ -39,11 +39,6 @@ FROM student
 GROUP BY Department;
 ```
 
-## Output
-
-![Exercise 3.1 Output](3.1.png)
-
----
 
 # Exercise 3.2 – Aggregate Functions on Employee Data
 
@@ -111,11 +106,6 @@ WHERE id NOT IN (
 );
 ```
 
-## Output
-
-![Exercise 3.3 Output](3.3.png)
-
----
 
 # References
 
